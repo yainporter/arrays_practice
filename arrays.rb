@@ -26,3 +26,11 @@ p numbers[3]
 
 # The index position of arrays start off by counting by 1s with 0 
 # for the first element
+
+# Demonstrate one additional Array method of choice: .reverse
+# The .reverse method will yield the reverse elements of an array
+# however those changes are do not overwrite the original array
+
+p dollars.reverse
+p dollars
+
